@@ -19,7 +19,7 @@ DelayDone is an iOS productivity app that helps you master your tasks with intel
 
 ## Contact
 
-For support inquiries: support@delaydone.app
+For support inquiries: hoktem@me.com
 
 ---
 
